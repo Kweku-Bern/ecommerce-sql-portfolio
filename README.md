@@ -30,9 +30,4 @@ The database contains four main tables:
 
 ---
 
-## ⚙️ How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-sql-portfolio.git
-   cd ecommerce-sql-portfolio
