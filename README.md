@@ -3,6 +3,16 @@
 This project simulates a small e-commerce platform using SQL. It includes a relational database schema with realistic customer, product, and order data. This project is part of my professional SQL portfolio, and it showcases my ability to design schemas, insert meaningful data, and run business-driven SQL queries.
 
 ---
+## Project Overview
+**Project Title**: Simple ecommerce analysis
+**Level**: Beginner
+
+---
+### 🎯 Objective
+
+This SQL project simulates a basic e-commerce system to practice SQL skills and demonstrate how relational data can be used for business intelligence. It enables analysis of customer orders, product performance, and revenue trends, using real-world scenarios and data issues.
+
+---
 
 ## 📦 Database Structure
 
